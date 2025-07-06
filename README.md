@@ -6,7 +6,7 @@ This project uses a **Linear Regression Machine Learning model** to predict futu
 
 ## 🚀 Demo
 
-🔗 Live Demo:https://future-sales-prediction-minipro.onrender.com/(Deployed on  Render)
+🔗 Live Demo:https://future-sales-prediction-minipro.onrender.com/
 
 
 ## 📊 How It Works
